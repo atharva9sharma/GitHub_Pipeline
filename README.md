@@ -2,7 +2,7 @@
 
 A robust, 3-stage data pipeline to fetch GitHub data, buffer it in a queue, and archive/transform it into a structured database.
 
-![Pipeline Architecture]
+Pipeline Architecture
 ## Architecture
 
 This pipeline follows a **Queue-First** architecture for robustness:
